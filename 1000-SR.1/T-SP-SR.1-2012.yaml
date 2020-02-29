@@ -25,7 +25,6 @@ countries:
       status: |
         El servicio de telegramas está suprimido.
         No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles, teléfonos públicos y audiotex
-		
   - en:
       name: Argentina
       status: |
