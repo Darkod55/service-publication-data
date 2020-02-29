@@ -610,7 +610,7 @@ countries:
     es:
       name: Pakistan	 
       status: |
-        El servicio de telecomunicaciones con Israel está suspendido  +
+        El servicio de telecomunicaciones con Israel está suspendido +
         El servicio télex está suprimido +
         El servicio de telegramas está suprimido
   - en:
