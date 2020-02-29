@@ -604,9 +604,9 @@ countries:
     fr:
       name: Pakistan
       status: |
-	Le service de télécommunication avec Israël est suspendu. +
-	Le service télex n'est plus assuré. +
-	Le service des télégrammes n'est plus assuré.
+        Le service de télécommunication avec Israël est suspendu. +
+        Le service télex n'est plus assuré. +
+        Le service des télégrammes n'est plus assuré.
     es:
       name: Pakistan	 
       status: |
