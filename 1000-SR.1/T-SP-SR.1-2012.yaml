@@ -264,7 +264,7 @@ countries:
       status: France Telecom a arrêté le service international de communications payables à l'arrivée.
     es:
       name: Francia
-	    status: France Telecom ha suspendido el servicio internacional de llamadas de cobro revertido 
+      status: France Telecom ha suspendido el servicio internacional de llamadas de cobro revertido 
   - en:
       name: Gibraltar
       status: |
