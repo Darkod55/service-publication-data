@@ -9,7 +9,6 @@ countries:
     es:
       name: Andorra
       status: El servicio télex está suprimido
-
   - en:
       name: Antigua and Barbuda
       status: |
@@ -23,8 +22,7 @@ countries:
     es:
       name: Antigua y Barbuda
       status: |
-        El servicio de telegramas está suprimido.
-        No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles, teléfonos públicos y audiotex
+        El servicio de telegramas está suprimido.        No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles, teléfonos públicos y audiotex
   - en:
       name: Argentina
       status: |
@@ -40,9 +38,7 @@ countries:
       name: Argentina
       status: |
         El Correo Oficial de La Republica Argentina S.A., Buenos Aires, anuncia que a partir del 1 de febrero de 2011 dejará de admitir telegramas con la indicación de servicio TLXx (ENTREGA POR TELEX).  +
-        Esta restricción alcanza tanto a los telegramas impuestos como los destinados a la República Argentina. +
-        Se continuará aceptando los servicios especiales URGENT (transmisión y entrega urgentes) TFx (entrega por teléfono), FAXx (entrega por facsímil). 
-		
+        Esta restricción alcanza tanto a los telegramas impuestos como los destinados a la República Argentina. +        Se continuará aceptando los servicios especiales URGENT (transmisión y entrega urgentes) TFx (entrega por teléfono), FAXx (entrega por facsímil). 
   - en:
       name: Aruba
       status: Collect calls to mobile numbers are not accepted
@@ -50,9 +46,7 @@ countries:
       name: Aruba
       status: Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées
     es:
-      name: Aruba
-      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
-	  
+      name: Aruba      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles	  
   - en:
       name: Australia
       status: Collect calls to mobile numbers are not accepted
@@ -60,9 +54,7 @@ countries:
       name: Australie
       status: Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
     es:
-      name: Australia
-      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
-	  
+      name: Australia      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles	  
   - en:
       name: Austria
       status: The telex service is no longer provided.
@@ -71,8 +63,7 @@ countries:
       status: Le service télex n'est plus assuré.
     es:
       name: Austria
-      status: El servicio télex está suprimido	  
-	  
+      status: El servicio télex está suprimido	  	  
   - en:
       name: Bangladesh
       status: The telex service is no longer provided.
@@ -81,8 +72,7 @@ countries:
       status: Le service télex n'est plus assuré.
     es:
       name: Bangladesh
-      status: El servicio télex está suprimido	  
-	  
+      status: El servicio télex está suprimido	  	  
   - en:
       name: Barbados
       status: Collect calls to mobile numbers are not accepted
@@ -91,8 +81,7 @@ countries:
       status: Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
     es:
       name: Barbados
-      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles	  	  
-	  
+      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles	  	  	  
   - en:
       name: Belgium
       status: No collect calls are accepted between a foreign operator and Belgacom operator. Incoming collect calls are available through Belgium Direct Service.
@@ -101,8 +90,7 @@ countries:
       status: Aucune communication payable à l'arrivée n'est acceptée entre un opérateur étranger et l'opérateur Belgacom. Il est possible d'utiliser le service Belgium Direct pour établir des communications entrantes payables à l'arrivée.
     es:
       name: Belgium
-      status: No se aceptan llamadas de cobro revertido entre un operador extranjero y el operador Belgacom. La recepción de llamadas de cobro revertido se efectúa a través del servicio directo con Bélgica	  	  
-	  
+      status: No se aceptan llamadas de cobro revertido entre un operador extranjero y el operador Belgacom. La recepción de llamadas de cobro revertido se efectúa a través del servicio directo con Bélgica	  	  	  
   - en:
       name: Belize
       status: Collect calls to mobile numbers or payphones  are not accepted
@@ -111,8 +99,7 @@ countries:
       status: Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
     es:
       name: Belice
-      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles	  	  
-	  
+      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles	  	  	  
   - en:
       name: Bosnia and Herzegovina
       status: The telex service is no longer provided.
@@ -121,8 +108,7 @@ countries:
       status: Le service télex n'est plus assuré.
     es:
       name: Bosnia y Herzegovina
-      status: El servicio télex está suprimido	  	  
-	  
+      status: El servicio télex está suprimido	  	  	  
   - en:
       name: Bulgaria
       status: |
@@ -140,8 +126,7 @@ countries:
       status: |
         Sólo se admiten llamadas telefónicas de cobro revertido y con tarjetas de crédito con los países cuyas administraciones hayan confirmado por escrito su acuerdo a la Administración búlgara +
         El servicio de telegramas está suprimido +
-        El servicio télex está suprimido
-	  
+        El servicio télex está suprimido	  
   - en:
       name: Cayman (Islands)
       status: Collect calls to mobile numbers are not accepted.
@@ -150,8 +135,7 @@ countries:
       status: Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
     es:
       name: Caimán (Islas)
-      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles. 	  
-	  
+      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles. 	  	  
   - en:
       name: Colombia
       status: Collect calls to mobile numbers are not accepted.
@@ -160,8 +144,7 @@ countries:
       status: Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
     es:
       name: Colombia
-      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.  	  
-	  
+      status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.  	  	  
   - en:
       name: Cook Islands
       status: The telex service is no longer provided.
@@ -170,8 +153,7 @@ countries:
       status: Le service télex n'est plus assuré.
     es:
       name: Cook (Islas)
-      status: El servicio télex está suprimido. 	  
-	  
+      status: El servicio télex está suprimido. 	  	  
   - en:
       name: Curaçao, Sint Maarten, Bonaire, Sint Eustatius and Saba
       status: |
@@ -190,7 +172,6 @@ countries:
         No se aceptan llamadas de cobro revertido entrantes ni salientes +
         El servicio de telegramas está suprimido +
         El servicio télex está suprimido.
-
   - en:
       name: Cyprus
       status: |
@@ -206,7 +187,6 @@ countries:
       status: |
         CYTA no encamina ni acepta tráfico telefónico procedente de operadores de tránsito. Se invita a los operadores de telecomunicaciones  que utilicen un método de concentración para el encaminamiento de su tráfico a la CYTA +
         No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.
-
   - en:
       name: Czech Rep.
       status: The telex service is no longer provided.
@@ -215,8 +195,7 @@ countries:
       status: Le service télex n'est plus assuré.
     es:
       name: Checa (Rep.)
-      status: El servicio télex está suprimido
-	  
+      status: El servicio télex está suprimido	  
   - en:
       name: Denmark
       status: The telegram service is no longer provided.
@@ -226,7 +205,6 @@ countries:
     es:
       name: Dinamarca
       status: El servicio de telegramas está suprimido
-
   - en:
       name: Dominica
       status: Collect calls to mobile numbers are not accepted
@@ -236,7 +214,6 @@ countries:
     es:
       name: Dominica
       status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.
-
   - en:
       name: Faroe (Island)
       status: |
@@ -252,7 +229,6 @@ countries:
       status: |
         El servicio télex está suprimido +
         El servicio de telegramas está suprimido
-
   - en:
       name: Fiji
       status: |
@@ -271,7 +247,6 @@ countries:
         El servicio télex está suprimido +
         El servicio de telegramas está suprimido +
         No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
-
   - en:
       name: Finland
       status: Sonera announces the closure of the Booked Call Service (booked personal telephone calls requiring the dispatch of a messenger).
@@ -281,7 +256,6 @@ countries:
     es:
       name: Finlandia
       status: Sonera anuncia la clausura del servicio de petición de llamadas (llamadas telefónicas personales que requieren el envío de un mensajero).
-
   - en:
       name: France
       status: France Telecom has discontinued the international collect call service.
@@ -291,7 +265,6 @@ countries:
     es:
       name: Francia
 	  status: France Telecom ha suspendido el servicio internacional de llamadas de cobro revertido 
-
   - en:
       name: Gibraltar
       status: |
@@ -307,7 +280,6 @@ countries:
 	  status: |
         No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles +
         El servicio de telegramas está suprimido
-
   - en:
       name: Greenland
       status: |
@@ -323,7 +295,6 @@ countries:
 	  status: |
         El servicio de telegramas está suprimido +
         No se admiten llamadas telefónicas que requieran el envío de un mensajero.
-
   - en:
       name: Guyana
       status: |
@@ -342,7 +313,6 @@ countries:
         El servicio télex está suprimido +
         El servicio de telegramas está suprimido +
         No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.
-
   - en:
       name: Haïti
       status: The telex service is no longer provided.
@@ -352,7 +322,6 @@ countries:
     es:
       name: Haïti	 
 	  status: El servicio télex está suprimido.
-
   - en:
       name: Honduras
       status: Collect calls to mobile numbers are not accepted.
@@ -362,7 +331,6 @@ countries:
     es:
       name: Honduras	 
 	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.
-
   - en:
       name: Hong Kong, China
       status: The telegram service and CT2 service are no longer provided.
@@ -372,7 +340,6 @@ countries:
     es:
       name: Hong Kong, China	 
 	  status: El servicio de telegramas y el servicio CT2 están suprimidos.
-
   - en:
       name: Hungary
       status: |
@@ -390,8 +357,7 @@ countries:
 	  status: |
         El servicio télex está suprimido +
         El servicio de telegramas está suprimido +
-        No se aceptan llamadas de cobro revertido entrantes ni salientes
-	  
+        No se aceptan llamadas de cobro revertido entrantes ni salientes	  
   - en:
       name: Iceland
       status: |
@@ -407,7 +373,6 @@ countries:
 	  status: |
         El servicio télex está suprimido +
         No se aceptan llamadas de cobro revertido entrantes ni salientes
-
   - en:
       name: Indonesia
       status: |
@@ -426,7 +391,6 @@ countries:
         No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles +
         El servicio de telegramas está suprimido +
         PT Indosat no encamina ni acepta tráfico telefónico procedente de operadores de tránsito. Se invita a los operadores de telecomunicaciones que utilicen un método  de concentración para el encaminamiento de su tráfico a PT Indosat.
-
   - en:
       name: Ireland
       status: Telephone calls requiring the dispatch of a messenger are no longer admitted.
@@ -436,7 +400,6 @@ countries:
     es:
       name: Irlanda	 
 	  status: No se admiten llamadas telefónicas que requieran el envío de un mensajero.  
-
   - en:
       name: Japan
       status: Telephone calls requiring the dispatch of a messenger are no longer admitted.
@@ -446,7 +409,6 @@ countries:
     es:
       name: Japón	 
 	  status: No se admiten llamadas telefónicas que requieran el envío de un mensajero. 
-
   - en:
       name: Kenya
       status: The international telegram messenger delivery services to physical addresses are not accepted.
@@ -456,7 +418,6 @@ countries:
     es:
       name: Kenya	 
 	  status: El servicio internacional de entrega de telegramas por mensajero a direcciones físicas está suprimido.  
-
   - en:
       name: Kuwait
       status: Incoming, outgoing and transit telegrams from or to Israel are not accepted.
@@ -466,7 +427,6 @@ countries:
     es:
       name: Kuwait	 
 	  status: No se admiten los telegramas con destino u origen en Israel, o en tránsito desde o hacia Israel. 
-
   - en:
       name: Lebanon
       status: Incoming, outgoing and transit telegrams from or to Israel are not accepted.
@@ -476,7 +436,6 @@ countries:
     es:
       name: Libano	 
 	  status: No se admiten los telegramas con destino u origen en Israel, o en tránsito desde o hacia Israel.	  
-
   - en:
       name: Luxembourg
       status: |
@@ -495,7 +454,6 @@ countries:
         El servicio télex está suprimido +
         El servicio de telegramas está suprimido +
         EPT anuncia la cancelación del servicio por operadora.
-
   - en:
       name: Madagascar
       status: The telegram service is no longer provided
@@ -505,7 +463,6 @@ countries:
     es:
       name: Madagascar	 
 	  status: El servicio de telegramas está suprimido.	 
-
   - en:
       name: Malaysia
       status: The telex service is no longer provided.
@@ -515,7 +472,6 @@ countries:
     es:
       name: Malasia	 
 	  status: El servicio télex está suprimido.	 
-
   - en:
       name: Malawi
       status: Collect calls to mobile numbers are not accepted.
@@ -525,7 +481,6 @@ countries:
     es:
       name: Malawi	 
 	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.	 
-
   - en:
       name: Maldives
       status: Collect calls for both outgoing and incoming  are not accepted.
@@ -535,7 +490,6 @@ countries:
     es:
       name: Maldivas	 
 	  status: No se aceptan llamadas de cobro revertido entrantes ni salientes.	 
-
   - en:
       name: Malta
       status: |
@@ -551,7 +505,6 @@ countries:
 	  status: |
         El servicio de telegramas está suprimido +
         El servicio télex está suprimido
-
   - en:
       name: Mauritius
       status: Letter telegrams (LT) and government letter telegrams (LTF) are no longer admitted to and from Mauritius.
@@ -561,7 +514,6 @@ countries:
     es:
       name: Mauricio	 
 	  status: No se aceptan con destino u origen en Mauricio telegramas-carta (LT) ni telegramas-carta de Estado (LTF).
-
   - en:
       name: Morocco
       status: Collect calls to mobile numbers and payphones are not accepted.
@@ -571,7 +523,6 @@ countries:
     es:
       name: Marruecos	 
 	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles o de teléfonos públicos.	 
-
   - en:
       name: Mozambique
       status: The telex service is no longer provided.
@@ -581,7 +532,6 @@ countries:
     es:
       name: Mozambique	 
 	  status: El servicio télex está suprimido.	 
-
   - en:
       name: Namibia
       status: Collect calls to mobile numbers are not accepted.
@@ -591,7 +541,6 @@ countries:
     es:
       name: Namibia	 
 	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.	 
-
   - en:
       name: Netherlands
       status: Collect calls to mobile numbers are not accepted.
@@ -601,7 +550,6 @@ countries:
     es:
       name: Países Bajos	 
 	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.	
-
   - en:
       name: New Caledonia
       status: |
@@ -620,7 +568,6 @@ countries:
         El servicio télex está suprimido +
         El servicio de telegramas está suprimido +
         No se aceptan llamadas de cobro revertido entrantes ni salientes
-
   - en:
       name: New Zealand
       status: The telegram service is no longer provided
@@ -630,7 +577,6 @@ countries:
     es:
       name: Nueva Zelandia	 
 	  status: El servicio de telegramas está suprimido.	 
-
   - en:
       name: Nigeria
       status: Due to present congestion in Lagos Port, the harbour authority will reject messages from any ship without the following particulars - a) ship's name; b) call sign; c) agent's name; d) overall length; e) draught; f) tonnage loaded; g) nature of cargo; h) last port of call; i) date and local time of ship arrival outside bar.
@@ -640,7 +586,6 @@ countries:
     es:
       name: Nigeria	 
 	  status: Debido a la actual congestión en el puerto de Lagos, las autoridades portuarias rechazarán todo mensaje de barco que no contenga los siguientes datos - a) nombre del barco; b) distintivo de llamada; c) nombre del agente; d) eslora total; e) calado; f) tonelaje; g) naturaleza del cargamento; h) último puerto de escala; i) fecha y hora local de llegada del barco a la barra exterior.	 
-
   - en:
       name: Norway
       status: Telenor will no longer provide collect calls from Norway. Collect calls to Norway will however continue to be accepted.
@@ -650,7 +595,6 @@ countries:
     es:
       name: Noruega	 
 	  status: Telenor no acepta llamadas de cobro revertido efectuadas desde Noruega, pero seguirá aceptando llamadas de cobro revertido recibidas en el país.	 
-
   - en:
       name: Pakistan
       status: |
@@ -669,7 +613,6 @@ countries:
         El servicio de telecomunicaciones con Israel está suspendido  +
         El servicio télex está suprimido +
         El servicio de telegramas está suprimido
-
   - en:
       name: Panama
       status: Collect calls to mobile numbers  are not accepted
@@ -679,7 +622,6 @@ countries:
     es:
       name: Panamá	 
 	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.	 
-
   - en:
       name: Papua New Guinea
       status: |
@@ -695,7 +637,6 @@ countries:
 	  status: |
         No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles +
         El servicio télex está suprimido
-
   - en:
       name: Peru
       status: Collect calls for both outgoing and incoming  are not accepted.
@@ -705,7 +646,6 @@ countries:
     es:
       name: Peru	 
 	  status: No se aceptan llamadas de cobro revertido entrantes ni salientes.	 
-
   - en:
       name: Poland
       status: |
@@ -721,7 +661,6 @@ countries:
 	  status: |
         El servicio de telegramas está suprimido +
         El servicio télex está suprimido.
-
   - en:
       name: Russian Federation
       status: Rostelecom announces that letter telegrams (LT), government letter telegrams (LTF) and telegrams with special service "URGENT" (Urgent transmission and delivery) are not accepted within the framework of telegraph traffic (terminating and originating) with Russia.
@@ -731,7 +670,6 @@ countries:
     es:
       name: Rusia (Federación de)	 
 	  status: Rostelecom anuncia que, en el marco del tráfico telegráfico (de terminación y de origen) con Rusia, no se aceptan telegramas-carta (LT), telegramas-carta de Estado (LTF) ni telegramas con servicio especial “URGENT” (transmisión y entrega urgentes).	 
-
   - en:
       name: Saint Helena, Ascension and Tristan da Cunh
       status: |
@@ -747,7 +685,6 @@ countries:
 	  status: |
         El servicio télex está suprimido +
         El servicio de telegramas está suprimido.
-
   - en:
       name: Saint Lucia
       status: Collect calls to mobile numbers  are not accepted.
@@ -756,8 +693,7 @@ countries:
       status: Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
     es:
       name: Santa Lucía	 
-	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles. 	  
-	  
+	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles. 	  	  
   - en:
       name: Saint Vincent and the Grenadines
       status: Collect calls to mobile numbers  are not accepted.
@@ -766,8 +702,7 @@ countries:
       status: Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
     es:
       name: San Vicente y las Granadinas	 
-	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles. 	  
-	  
+	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles. 	  	  
   - en:
       name: Samoa
       status: The telex service is no longer provided.
@@ -776,8 +711,7 @@ countries:
       status: Le service télex n'est plus assuré.
     es:
       name: Samoa	 
-	  status: El servicio télex está suprimido.	 	  
-	  
+	  status: El servicio télex está suprimido.	 	  	  
   - en:
       name: San Marino
       status: Intelcom San Marino no longer route nor accept telephone traffic via transit carriers. Telecom operators are requested to switch to the hubbing method for routing traffic to Intelcom San Marino.
@@ -786,8 +720,7 @@ countries:
       status: Intelcom San Marino n'achemine plus et n'accepte plus de trafic téléphonique via des opérateurs de transit. Les opérateurs de télécommunication concernés sont priés de bien vouloir adopter la méthode de concentration (hubbing) pour le routage de leur trafic à destination de Intelcom San Marino. 
     es:
       name: San Marino	 
-	  status: Intelcom San Marino no encamina ni acepta tráfico telefónico procedente de operadores de tránsito. Se invita a los operadores de telecomunicaciones que utilicen un método  de concentración para el encaminamiento de su tráfico a Intelcom San Marino.	 	  
-	  
+	  status: Intelcom San Marino no encamina ni acepta tráfico telefónico procedente de operadores de tránsito. Se invita a los operadores de telecomunicaciones que utilicen un método  de concentración para el encaminamiento de su tráfico a Intelcom San Marino.	 	  	  
   - en:
       name: Sao Tome and Principe
       status: The telex service is no longer provided.
@@ -796,8 +729,7 @@ countries:
       status: Le service télex n'est plus assuré.
     es:
       name: Santo Tomé y Príncipe	 
-	  status: El servicio télex está suprimido.	 	  
-	  
+	  status: El servicio télex está suprimido.	 	  	  
   - en:
       name: Saudi Arabia
       status: Collect calls for both outgoing and incoming are not accepted.
@@ -806,8 +738,7 @@ countries:
       status: Les communications entrantes et sortantes payables à l'arrivée ne sont pas acceptées.
     es:
       name: Arabia Saudita	 
-	  status: No se aceptan llamadas de cobro revertido entrantes ni salientes.	 	  
-	  
+	  status: No se aceptan llamadas de cobro revertido entrantes ni salientes.	 	  	  
   - en:
       name: Serbia
       status: |
@@ -825,8 +756,7 @@ countries:
 	  status: |
         No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles +
         El servicio télex está suprimido +
-        No se admiten llamadas semiautomáticas (de entrada y de salida) del servicio telefónico con asistencia de operadora.
-	  
+        No se admiten llamadas semiautomáticas (de entrada y de salida) del servicio telefónico con asistencia de operadora.	  
   - en:
       name: Seychelles
       status: Collect calls to mobile numbers are not accepted.
@@ -835,8 +765,7 @@ countries:
       status: Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
     es:
       name: Seychelles	 
-	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.	 	  
-	  
+	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.	 	  	  
   - en:
       name: Singapore
       status: |
@@ -852,7 +781,6 @@ countries:
 	  status: |
         El servicio de telegramas está suprimido +
         Singapore Telecommunications Ltd (“SingTel”), Singapur, anuncia que las llamadas internacionales entrantes con asistencia de operadora y las llamadas de cobro revertido enviadas a Singapore Telecommunications Ltd (“SingTel”)  no se transmitirán a los abonados de MobileOne (Asia) Pte Ltd. ni de  StarHub Mobile Pte Ltd a menos que los abonados a estas dos (2) empresas de telefonía móvil estén inscritos en SingTel para la recepción de esas llamadas. Singapore Telecom Mobile Pte Ltd (“SingTel Mobile”) seguirá aceptando esas llamadas con terminación en sus abonados.
-
   - en:
       name: Slovakia
       status: |
@@ -871,7 +799,6 @@ countries:
         No se aceptan llamadas de cobro revertido entrantes ni salientes +
         El servicio télex está suprimido +
         El servicio de telegramas está suprimido.
-
   - en:
       name: Slovenia
       status: Telegrams with the special service TLXx (Telex delivery) are no longer admitted to and from Slovenia.
@@ -881,7 +808,6 @@ countries:
     es:
       name: Eslovenia	 
 	  status: No se aceptan con destino u origen en Eslovenia telegramas con el servicio especial TLXx (entrega de télex).	 
-
   - en:
       name: South Africa
       status: Telkom SA Ltd., Pretoria, announces that Letter telegrams (LT), Government letter telegrams (LTF) and telegrams with the special service URGENT (Urgent transmission and delivery) and LX (De luxe form) are not accepted to and from South Africa.
@@ -891,7 +817,6 @@ countries:
     es:
       name: Sudafricana (Rep.)	 
 	  status: Telkom SA Ltd., Pretoria, anuncia que no se admiten con destino u origen en la República Sudafricana los telegramas-carta (LT), los telegramas-carta de Estado (LTF) ni los telegramas con servicio especial URGENT (transmisión y entrega urgentes) y LX (formulario de lujo).	 
-
   - en:
       name: Sri Lanka
       status: No incoming calls are allowed for payphones in Sri Lanka.
@@ -901,7 +826,6 @@ countries:
     es:
       name: Sri Lanka	 
 	  status: No se autorizan llamadas efectuadas a teléfonos públicos.	 
-
   - en:
       name: Sudan
       status: The telecommunication service with Israel is suspended.
@@ -911,7 +835,6 @@ countries:
     es:
       name: Sudan	 
 	  status: El servicio de telecomunicaciones con Israel está suspendido.	 
-
   - en:
       name: Suriname
       status: |
@@ -927,7 +850,6 @@ countries:
 	  status: |
         El servicio de telegramas está suprimido +
         El servicio télex está suprimido
-
   - en:
       name: Swaziland
       status: Collect calls to mobile numbers and virtual telephony are not accepted.
@@ -937,7 +859,6 @@ countries:
     es:
       name: Swazilandia	 
 	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles ni de telefonía virtual.
-
   - en:
       name: Sweden
       status: TeliaSonera no longer accept single ticket method collect calls to Sweden, nor provide Home Country Direct from and to Sweden.
@@ -947,7 +868,6 @@ countries:
     es:
       name: Suecia	 
 	  status: TeliaSonera no aceptará llamadas de cobro revertido por el método de ticket único con destino a Suecia, ni proporcionará el servicio país directo desde y hacia ese país.
-
   - en:
       name: Syrian Arab Republic
       status: The telecommunication service with Israel is suspended.
@@ -956,8 +876,7 @@ countries:
       status:Le service de télécommunication avec Israël est suspendu.
     es:
       name: República Árabe Siria	 
-	  status: El servicio de telecomunicaciones con Israel está suspendido.
-	  
+	  status: El servicio de telecomunicaciones con Israel está suspendido.	  
   - en:
       name: Thailand
       status: The telegram service is no longer provided.
@@ -966,8 +885,7 @@ countries:
       status: Le service des télégrammes n'est plus assuré.
     es:
       name: Tailandia	 
-	  status: El servicio de telegramas está suprimido.	  
-	  
+	  status: El servicio de telegramas está suprimido.	  	  
   - en:
       name: Tonga
       status: |
@@ -982,8 +900,7 @@ countries:
       name: Tonga	 
 	  status: |
         El servicio de telegramas está suprimido +
-        El servicio télex está suprimido
-	  
+        El servicio télex está suprimido	  
   - en:
       name: Trinidad and Tobago
       status: |
@@ -1001,8 +918,7 @@ countries:
 	  status: |
         El servicio de telegramas está suprimido +
         El servicio télex está suprimido +
-        No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles ni de telefonía virtual
-	  
+        No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles ni de telefonía virtual	  
   - en:
       name: Turkey
       status: The use of MF and HF radiotelegraphy and radiotelephony on foreign ships in Turkish ports is restricted.
@@ -1012,7 +928,6 @@ countries:
     es:
       name: Turquía	 
 	  status: Se restringe el empleo de la radiotelegrafía y de la radiotelefonía por ondas hectométricas y decamétricas en los barcos extranjeros anclados en puertos turcos.	 
-
   - en:
       name: Turks and Caicos Islands
       status: Collect calls to mobile numbers are not accepted.
@@ -1022,7 +937,6 @@ countries:
     es:
       name: Turquesas y Caicos (Islas)	 
 	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.	 
-
   - en:
       name: United Arab Emirates
       status: |
@@ -1038,7 +952,6 @@ countries:
 	  status: |
         No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles +
         El servicio de telecomunicaciones con Israel está suspendido
-
   - en:
       name: Uruguay
       status: Collect calls to mobile numbers are not accepted.
@@ -1048,7 +961,6 @@ countries:
     es:
       name: Uruguay	 
 	  status: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles.	 
-
   - en:
       name: Vanuatu
       status: |
@@ -1067,7 +979,6 @@ countries:
         No se aceptan llamadas de cobro revertido entrantes ni salientes +
         El servicio télex está suprimido +
         El servicio de telegramas está suprimido.
-
   - en:
       name: Vatican
       status: The telex service is no longer provided.
@@ -1077,7 +988,6 @@ countries:
     es:
       name: Vaticano	 
 	  status: El servicio télex está suprimido.	 
-
   - en:
       name: Yemen
       status: |
